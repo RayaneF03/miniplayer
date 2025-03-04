@@ -44,7 +44,7 @@ body{
     width: 0;
     height: 6px;
     border-radius: 20px;
-    background: #1db954;
+    background: #625ab3;
 }
 
 .container .song-info .time{
@@ -123,7 +123,7 @@ body{
 }
 
 .container .controls i:hover{
-    color: #fff;
+    color: #ffff;
 }
 
 @keyframes rotate {
